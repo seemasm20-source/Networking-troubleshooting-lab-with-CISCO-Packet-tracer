@@ -17,13 +17,21 @@ Lab 1- Build a basic office network and assign IP addresses
 Build a network with 1 router, 1 switch, and 2 PCs. Manually assign IPs. Ping PC1 from PC2 to confirm they can talk.
 
 Packet tracer steps
+
 Open Packet Tracer → drag 1 Router (2811), 1 Switch (2960), 2 PCs onto canvas
+
 Connect PC0 → Switch with copper straight-through cable
+
 Connect PC1 → Switch with copper straight-through cable
+
 Connect Switch → Router Fa0/0 with copper straight-through cable
+
 Click PC0 → Desktop → IP Configuration → set IP manually
+
 Click PC1 → Desktop → IP Configuration → set IP manually
+
 Click Router → CLI tab → configure the interface
+
 
 IP address and subnetmask and default gateaway details:
 -- On PC0: IP = 192.168.1.10 / Mask = 255.255.255.0 / Gateway = 192.168.1.1
