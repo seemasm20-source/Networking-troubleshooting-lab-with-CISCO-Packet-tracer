@@ -66,10 +66,15 @@ The router interface is "administratively down" by default.
 You forgot no shutdown. Type it on the interface and ping again — it will work.
 
 Lab: Basic office network
+
 Issue: Ping failed between PC0 and PC1
+
 Cause: Router interface was shutdown (administratively down)
+
 Fix: Typed "no shutdown" on FastEthernet0/0
+
 Verify: ping 192.168.1.20 — reply received
+
 Save file as: lab01-basic-network.pkt
 
 
