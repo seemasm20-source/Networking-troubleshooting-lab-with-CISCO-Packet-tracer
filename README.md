@@ -11,7 +11,9 @@ add the steps here later:
 
 
 Day 1 — topic
+
 Lab 1- Build a basic office network and assign IP addresses
+
 Build a network with 1 router, 1 switch, and 2 PCs. Manually assign IPs. Ping PC1 from PC2 to confirm they can talk.
 
 Packet tracer steps
