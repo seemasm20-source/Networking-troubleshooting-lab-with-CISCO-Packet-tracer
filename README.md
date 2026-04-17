@@ -35,24 +35,35 @@ Click Router → CLI tab → configure the interface
 
 IP address and subnetmask and default gateaway details:
 -- On PC0: IP = 192.168.1.10 / Mask = 255.255.255.0 / Gateway = 192.168.1.1
+
 -- On PC1: IP = 192.168.1.20 / Mask = 255.255.255.0 / Gateway = 192.168.1.1
 
 -- Commands to type On Router CLI:
+
 Router> enable
+
 Router# configure terminal
+
 Router(config)# interface FastEthernet0/0
+
 Router(config-if)# ip address 192.168.1.1 255.255.255.0
+
 Router(config-if)# no shutdown
+
 Router(config-if)# exit
 
 -- Test from PC0 Desktop > Command Prompt:
+
 ping 192.168.1.20
 
 Issue you will see
+
 Ping fails — "Request timed out" even after setting IPs correctly
 
 Fix
-The router interface is "administratively down" by default. You forgot no shutdown. Type it on the interface and ping again — it will work.
+The router interface is "administratively down" by default. 
+
+You forgot no shutdown. Type it on the interface and ping again — it will work.
 
 Lab: Basic office network
 Issue: Ping failed between PC0 and PC1
