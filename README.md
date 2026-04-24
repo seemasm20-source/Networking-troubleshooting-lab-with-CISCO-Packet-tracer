@@ -1,9 +1,25 @@
-# Networking-troubleshooting-lab-with-CISCO-Packet-tracer
-Hands-on IT Support portfolio 
+LAN-to-LAN Routing Using Cisco Router
 
-How to download Cisco packet tracer 
+IT Help Desk Tier 1 Portfolio Project
+Built and documented by: SEEMA S M
+Tool: Cisco Packet Tracer
+Date: April 2026
 
-add the steps here later:
+How to download Cisco packet tracer :
+1. go to browser and find NETACAD.com
+2. Sign up to the account as a new user
+3. Give required details like Name, email address,dob
+4. tick off all terms and condition of cisco networking
+5. next it navigates to explore the catalog page
+6. getting started with cisco packe tracer
+7. Install cpt
+8. download the version of packet tracer
+9. choose the machine you want to work with 9.00.0 for Windows 64 bit
+10. download the exe file and click on downloaded file ( snapshots attached for next steps)
+
+
+Objective
+Connect two separate LAN networks using a single Cisco 2911 router and enable full communication between all PCs across both networks.
 
 
 
