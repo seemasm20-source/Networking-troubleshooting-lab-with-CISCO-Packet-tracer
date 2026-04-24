@@ -5,7 +5,7 @@ Built and documented by: SEEMA S M
 Tool: Cisco Packet Tracer
 Date: April 2026
 
-How to download Cisco packet tracer :
+How to download Cisco packet tracer : https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US
 1. go to browser and find NETACAD.com
 2. Sign up to the account as a new user
 3. Give required details like Name, email address,dob
@@ -16,6 +16,9 @@ How to download Cisco packet tracer :
 8. download the version of packet tracer
 9. choose the machine you want to work with 9.00.0 for Windows 64 bit
 10. download the exe file and click on downloaded file ( snapshots attached for next steps)
+
+
+[Cisco_Packet_Tracer_Download_and_Installation_Instructions.pdf](https://github.com/user-attachments/files/27069556/Cisco_Packet_Tracer_Download_and_Installation_Instructions.pdf)
 
 
 Objective
