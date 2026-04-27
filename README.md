@@ -21,12 +21,22 @@ How to download Cisco packet tracer : https://www.netacad.com/courses/getting-st
 [Cisco_Packet_Tracer_Download_and_Installation_Instructions.pdf](https://github.com/user-attachments/files/27069556/Cisco_Packet_Tracer_Download_and_Installation_Instructions.pdf)
 
 
-Objective
-Connect two separate LAN networks using a single Cisco 2911 router and enable full communication between all PCs across both networks.
+Objective:
+🔧Connect two separate LAN networks using a single Cisco 2911 router and enable full communication between all PCs across both networks(using Cisco Packet Tracer)
 
 
+1. Network Topology
+ 
+🔧 Devices Used
+     Device                        Model                Quantity                Purpose 
+Router Cisco                       Cisco 2911             1                     Routes traffic between 2 LANs
+Switch                             Cisco 2960             2                     Connects PCs within each LAN
+PC                                 Generic PC             6                     End user devices (3 per LAN)
 
-
+2. 📋 IP Address Table
+    Device        Interface                 IPAddress                   SubnetMask          Default Gateway
+   Router         GigabitEthernet0/0        10.0.0.4                    255.255.255.0        _
+   Router          GigabitEthernet0/1       192.168.1.4                 255.255.255.0        _
 
 
 Day 1 — topic
