@@ -108,7 +108,7 @@ Objective:
 
     
 
-6. Issues :
+6. Issues : 1
  a. Test from PC1 Desktop > Command Prompt
  b. ipconfig
  c.ping PC1 to PC3 ( PC1 ip address-10.0.0.1 , PC3 ip address- 192.168.1.1
@@ -124,11 +124,17 @@ Objective:
 
 
    7. Fix :
-   a. Default gateaway was not assigned to the PCs.
-   b. Default gateaway will be Routers IP address
-   c. interface GigabitEthernet0/0 -  10.0.0.4
-   d. interface GigabitEthernet0/1 -   192.168.1.4
-   e.Assigned Default Gateaway it worked.
+   a. Default gateway was not assigned to the PCs.
+   b. Default gateway will be Routers IP address
+   c. IP address and subnetmask and default gateaway details:
+       On PC1: IP = 10.0.0.1 / Mask = 255.255.255.0 / Gateway = 10.0.0.4
+          PC2: IP = 10.0.0.2 / Mask = 255.255.255.0 / Gateway = 10.0.0.4
+          PC3: IP = 10.0.0.3 / Mask = 255.255.255.0 / Gateway = 10.0.0.4
+      On PC4: IP = 192.168.1.1 / Mask = 255.255.255.0 / Gateway = 192.168.1.4
+         PC5: IP = 192.168.1.2 / Mask = 255.255.255.0 / Gateway = 192.168.1.4
+         PC6: IP = 192.168.1.3 / Mask = 255.255.255.0 / Gateway = 192.168.1.4
+      d. Click PC1 → Desktop → IP Configuration → set Default Gateway to all the PCs.
+      e.  Assigned Default Gateaway and PCs started communicating to each other.
 
 <img width="1920" height="1080" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/2b609d9f-657e-417f-8a65-95f461bde0fe" />
 <img width="1920" height="1080" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/cfbe8ba0-2ee2-4be0-8c45-4422441c0bdd" />
@@ -141,21 +147,21 @@ Objective:
 
 
 
+Issues -2
+
+8. Issue: Ping failed between PC0 and PC1
+   Cause: Router interface was shutdown (administratively down)
 
 
 
 
 
 
+   <img width="1920" height="1080" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/c0a8b134-ff3c-4d4e-951b-a6c1d3329f85" />
+<img width="1920" height="1080" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/bd3cdcab-34eb-4105-bc68-c7fc3f2f7242" />
+<img width="1920" height="1080" alt="Screenshot (230)" src="https://github.com/user-attachments/assets/63ab5f70-d49a-42b5-8560-f91fde1c3729" />
+<img width="1920" height="1080" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/76aa6b47-7a59-4fcc-9388-f22494c1e395" />
 
-IP address and subnetmask and default gateaway details:
--- On PC0: IP = 192.168.1.10 / Mask = 255.255.255.0 / Gateway = 192.168.1.1
-
--- On PC1: IP = 192.168.1.20 / Mask = 255.255.255.0 / Gateway = 192.168.1.1
-
-
-
-Issues 
 
 
 
