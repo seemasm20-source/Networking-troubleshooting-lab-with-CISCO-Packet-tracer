@@ -21,6 +21,7 @@ How to download Cisco packet tracer : https://www.netacad.com/courses/getting-st
 [Cisco_Packet_Tracer_Download_and_Installation_Instructions.pdf](https://github.com/user-attachments/files/27069556/Cisco_Packet_Tracer_Download_and_Installation_Instructions.pdf)
 
 
+
 Objective:
 🔧Connect two separate LAN networks using a single Cisco 2911 router and enable full communication between all PCs across both networks(using Cisco Packet Tracer)
 
@@ -119,11 +120,23 @@ Objective:
 
 
 
+
+
+
    7. Fix :
    a. Default gateaway was not assigned to the PCs.
    b. Default gateaway will be Routers IP address
    c. interface GigabitEthernet0/0 -  10.0.0.4
    d. interface GigabitEthernet0/1 -   192.168.1.4
+   e.Assigned Default Gateaway it worked.
+
+<img width="1920" height="1080" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/2b609d9f-657e-417f-8a65-95f461bde0fe" />
+<img width="1920" height="1080" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/cfbe8ba0-2ee2-4be0-8c45-4422441c0bdd" />
+<img width="1920" height="1080" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/f43e7209-5983-4aac-af47-74a5a9ce9bf2" />
+<img width="1920" height="1080" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/113df17a-7370-47e9-bf9f-4f8e5369793a" />
+<img width="1920" height="1080" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/5317f79b-8d41-414d-9666-66e4acfc680e" />
+<img width="1920" height="1080" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/c791e471-0062-44be-b637-c2f03d9bd26d" />
+
    
 
 
