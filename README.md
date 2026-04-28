@@ -29,13 +29,19 @@ Objective:
  
 🔧 Devices Used
      Device                        Model                Quantity                Purpose 
+     
 Router Cisco                       Cisco 2911             1                     Routes traffic between 2 LANs
+
 Switch                             Cisco 2960             2                     Connects PCs within each LAN
+
 PC                                 Generic PC             6                     End user devices (3 per LAN)
 
 2. 📋 IP Address Table
+3. 
     Device        Interface                 IPAddress                   SubnetMask          Default Gateway
+   
    Router         GigabitEthernet0/0        10.0.0.4                    255.255.255.0        _
+   
    Router          GigabitEthernet0/1       192.168.1.4                 255.255.255.0        _
 
 
