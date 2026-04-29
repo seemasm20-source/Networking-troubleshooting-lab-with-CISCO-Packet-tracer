@@ -69,7 +69,7 @@ Objective:
    
     Device        Interface                 IPAddress                   SubnetMask          Default Gateway
    
-   Router         GigabitEthernet0/0        10.0.0.4                    255.255.255.0        _
+   Router         GigabitEthernet0/0        10.0.0.4                    255.255.255.0        _ 
    
    Router          GigabitEthernet0/1       192.168.1.4                 255.255.255.0        _
 
