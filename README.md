@@ -157,10 +157,26 @@ Issues -2
 
 
 
-   <img width="1920" height="1080" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/c0a8b134-ff3c-4d4e-951b-a6c1d3329f85" />
-<img width="1920" height="1080" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/bd3cdcab-34eb-4105-bc68-c7fc3f2f7242" />
-<img width="1920" height="1080" alt="Screenshot (230)" src="https://github.com/user-attachments/assets/63ab5f70-d49a-42b5-8560-f91fde1c3729" />
-<img width="1920" height="1080" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/76aa6b47-7a59-4fcc-9388-f22494c1e395" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/177fff40-c92b-4d2e-9552-3cb21791bcd7" />
+<img width="1920" height="1080" alt="Screenshot (227)" src="https://github.com/user-attachments/assets/745a42a5-3d61-495d-9bb0-3f67d0bb5685" />
+<img width="1920" height="1080" alt="Screenshot (226)" src="https://github.com/user-attachments/assets/6fbdb454-b545-4379-be5f-9a97b3e372cb" />
+<img width="1920" height="1080" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/03eff9b8-ef29-4756-ad98-de311c060100" />
+<img width="1920" height="1080" alt="Screenshot (224)" src="https://github.com/user-attachments/assets/1b21a299-a2fc-4b18-921a-004639aa3098" />
+
 
 
 
