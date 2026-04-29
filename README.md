@@ -18,7 +18,34 @@ How to download Cisco packet tracer : https://www.netacad.com/courses/getting-st
 10. download the exe file and click on downloaded file ( snapshots attached for next steps)
 
 
+
+
+
+
+
+
+
+<img width="1920" height="1080" alt="Screenshot (237)" src="https://github.com/user-attachments/assets/52d8b2e7-df36-4bb0-836f-7213b0b35e18" />
+
+
+
+<img width="1920" height="1080" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/6f5b7e66-e33f-4c38-bfd8-c0d36a5241e9" />
+
+
+<img width="1920" height="1080" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/5a648161-49f0-4207-a9dc-022ab70e54c7" />
+
+<img width="1920" height="1080" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/1f4f2f26-8d6e-4774-86b2-ab92b64d9c2a" />
+
+<img width="1920" height="1080" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/b44e7ba3-617f-4856-94aa-2cd5c7921b48" />
+
+<img width="1920" height="1080" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/3f86dc48-3ce5-47d1-b94b-bf950ed779e7" />
+
+<img width="1920" height="1080" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/9096c664-1221-4533-9264-b1ce7b8eb41e" />
+
+
+
 [Cisco_Packet_Tracer_Download_and_Installation_Instructions.pdf](https://github.com/user-attachments/files/27069556/Cisco_Packet_Tracer_Download_and_Installation_Instructions.pdf)
+
 
 
 
@@ -187,14 +214,5 @@ Issues -2
 
 
 
-
-
-
-
-
-
-
-
-Save file as: lab01-basic-network.pkt
 
 
