@@ -165,10 +165,18 @@ Issues -2
 <img width="1920" height="1080" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/7422a589-559a-4396-a477-015e5c80b41a" />
 
 
+9. FIX : I forgot to type no shutdown in Router CLI. And typed "no shutdown" in the interface and pinged again, it worked
 
 
 
+    <img width="1920" height="1080" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/0fa179dc-af45-4812-ab88-d0762321a25c" />
 
+
+    <img width="1920" height="1080" alt="Screenshot (234)" src="https://github.com/user-attachments/assets/16907e16-cc92-470c-babf-5a4f235003e7" />
+
+    <img width="1920" height="1080" alt="Screenshot (235)" src="https://github.com/user-attachments/assets/0ea29c94-45e7-4a0c-9da6-1630ee2bb8b6" />
+
+    
 
 
 
