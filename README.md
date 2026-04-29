@@ -151,7 +151,7 @@ Issues -2
 
 8. Issue: Ping failed between PC0 and PC1
    Cause: Router interface was shutdown (administratively down)
-
+   Ping fails — "Request timed out" even after setting IPs correctly.
 
 <img width="1920" height="1080" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/357ae51e-b6b1-410b-be55-0a6b3ce8d503" />
 
@@ -165,7 +165,9 @@ Issues -2
 <img width="1920" height="1080" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/7422a589-559a-4396-a477-015e5c80b41a" />
 
 
-9. FIX : I forgot to type no shutdown in Router CLI. And typed "no shutdown" in the interface and pinged again, it worked
+9. FIX : Typed " no shutdown" on Router CLI GigabitEthernet0/0 and GigabitEthernet0/1
+
+   Verify: ping 192.168.1.1 — reply received
 
 
 
@@ -191,30 +193,7 @@ Issues -2
 
 
 
--- Test from PC0 Desktop > Command Prompt:
 
-ping 192.168.1.20
-
-Issue you will see
-
-
-Ping fails — "Request timed out" even after setting IPs correctly
-     
-Fix
-
-The router interface is "   m      dministratively down" by default. 
-
-You forgot no shutdown. Type it on the interface and ping again — it will work.
-
-Lab: Basic office network
-
-Issue: Ping failed between PC0 and PC1
-
-Cause: Router interface was shutdown (administratively down)
-
-Fix: Typed "no shutdown" on FastEthernet0/0
-
-Verify: ping 192.168.1.20 — reply received
 
 Save file as: lab01-basic-network.pkt
 
