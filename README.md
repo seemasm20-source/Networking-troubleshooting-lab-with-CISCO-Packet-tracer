@@ -153,6 +153,16 @@ Issues -2
    Cause: Router interface was shutdown (administratively down)
 
 
+<img width="1920" height="1080" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/357ae51e-b6b1-410b-be55-0a6b3ce8d503" />
+
+<img width="1920" height="1080" alt="Screenshot (230)" src="https://github.com/user-attachments/assets/de5f8d22-7bc1-41f9-a568-1f2231fc2979" />
+
+
+<img width="1920" height="1080" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/6959252f-3454-46a0-a994-6ba0c2afa308" />
+
+
+
+<img width="1920" height="1080" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/7422a589-559a-4396-a477-015e5c80b41a" />
 
 
 
@@ -168,14 +178,6 @@ Issues -2
 
 
 
-
-
-
-<img width="1920" height="1080" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/177fff40-c92b-4d2e-9552-3cb21791bcd7" />
-<img width="1920" height="1080" alt="Screenshot (227)" src="https://github.com/user-attachments/assets/745a42a5-3d61-495d-9bb0-3f67d0bb5685" />
-<img width="1920" height="1080" alt="Screenshot (226)" src="https://github.com/user-attachments/assets/6fbdb454-b545-4379-be5f-9a97b3e372cb" />
-<img width="1920" height="1080" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/03eff9b8-ef29-4756-ad98-de311c060100" />
-<img width="1920" height="1080" alt="Screenshot (224)" src="https://github.com/user-attachments/assets/1b21a299-a2fc-4b18-921a-004639aa3098" />
 
 
 
