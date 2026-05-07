@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (204) - Copy" src="https://github.com/user-attachments/assets/ee527a52-4d2c-4520-a497-6421c9503b1c" />
+
 LAN-to-LAN Routing Using Cisco Router
 
 IT Help Desk Tier 1 Portfolio Project
