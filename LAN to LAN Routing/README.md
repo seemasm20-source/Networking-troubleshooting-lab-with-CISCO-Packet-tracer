@@ -43,7 +43,7 @@ The following are some of the basic networking principles covered in this projec
 
 🛠️ Technologies Used
 
-1.Cisco Packet Tracer- Download 
+1.Cisco Packet Tracer- Download ( https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US )
 
 2.Cisco Router
 
