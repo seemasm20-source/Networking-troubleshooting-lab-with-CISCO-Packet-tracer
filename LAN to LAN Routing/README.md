@@ -73,13 +73,18 @@ The network contains:
    🔍 Connectivity Testing
 
 Connectivity between both LANs was verified using:
+
  ping command in command prompt
+ 
  ping 192.168.1.1
+ 
 Note-Successful replies confirmed proper routing between the LAN1(HR) and LAN2(Finance) networks.
 
    
 🧩 Troubleshooting Performed
+
 1.Issue 1: PCs Could Not Communicate Across Networks
+
 Cause
 Incorrect default gateway configuration.
 
