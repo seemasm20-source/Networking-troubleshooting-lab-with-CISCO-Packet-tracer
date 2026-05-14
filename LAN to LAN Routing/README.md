@@ -13,10 +13,15 @@ This project models a network set-up consisting of two different departments HR(
 The following are some of the basic networking principles covered in this project:
 
 1.LAN segregation
+
 2.IPv4 addressing
+
 3.Routing configuration
+
 4.Default gateway setting
+
 5.Testing of connectivity
+
 6.Network troubleshooting
 
 🖥️ Network Topology
