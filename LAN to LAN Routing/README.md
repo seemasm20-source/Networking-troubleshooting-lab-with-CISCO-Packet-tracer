@@ -26,12 +26,11 @@ The following are some of the basic networking principles covered in this projec
 
 🖥️ Network Topology
 
-The network contains:
-
-1. Cisco Router
-2. Cisco Switches
-3. 3 PCs in LAN1
-4. 3 PCs in LAN2
+| DeviceModel      | Quantity | Purpose                       |
+| ---------------- | -------: | ----------------------------- |
+| RouterCisco 2911 | 1        | Routes traffic between 2 LANs |
+| SwitchCisco 2960 | 2        | Connects PCs within each LAN  |
+| PCGeneric PC     | 6        | End user devices — 3 per LAN  |
 
 
 🌐 Network Addressing Plan
