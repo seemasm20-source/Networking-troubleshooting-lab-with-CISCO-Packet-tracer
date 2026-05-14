@@ -43,11 +43,17 @@ The network contains:
 
 
 🛠️ Technologies Used
+
 1.Cisco Packet Tracer- Download 
+
 2.Cisco Router
+
 3.Cisco Switches
+
 4.IPv4 Addressing
+
 5.CLI Configuration
+
 6.ICMP Ping Testing
 
 
