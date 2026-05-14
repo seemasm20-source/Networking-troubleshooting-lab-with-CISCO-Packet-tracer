@@ -77,13 +77,15 @@ The following are some of the basic networking principles covered in this projec
 
    🔍 Connectivity Testing
 
-Connectivity between both LANs was verified using:
+Connectivity between both LANs was verified using:ping command in command prompt
 
- ping command in command prompt
- 
- ping 192.168.1.1
- 
-Note-Successful replies confirmed proper routing between the LAN1(HR) and LAN2(Finance) networks.
+| PC Address | Target Address | Same LAN? | Expected Reply |
+| ---------- | -------------- | :-------: | -------------- |
+| 10.0.0.1   | 10.0.0.2       | Yes       | Reply ✅        |
+| 10.0.0.1   | 10.0.0.3       | Yes       | Reply ✅        |
+| 10.0.0.1   | 192.168.1.1    | No        | Reply ✅        |
+| 10.0.0.1   | 192.168.1.2    | No        | Reply ✅        |
+| 10.0.0.1   | 192.168.1.3    | No        | Reply ✅        |
 
    
 🧩 Troubleshooting Performed
