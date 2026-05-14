@@ -12,17 +12,17 @@ This project models a network set-up consisting of two different departments HR(
 
 The following are some of the basic networking principles covered in this project:
 
-1.LAN segregation
+1. LAN segregation
 
-2.IPv4 addressing
+2. IPv4 addressing
 
-3.Routing configuration
+3. Routing configuration
 
-4.Default gateway setting
+4. Default gateway setting
 
-5.Testing of connectivity
+5. Testing of connectivity
 
-6.Network troubleshooting
+6. Network troubleshooting
 
 🖥️ Network Topology
 
@@ -52,14 +52,21 @@ The network contains:
 
 
 ⚙️ Configuration Tasks
+
   1.Router Configuration
+  
   2.Assigned IP addresses to router interfaces
+  
   3.Enabled interfaces using no shutdown
+  
   4.Configured gateways for both LANs
 
  🖥️ PC Configuration
+ 
    1.Assigned static IP addresses
+   
    2.Configured subnet masks
+   
    3.Set default gateways
 
 
@@ -89,18 +96,26 @@ no shutdown command in Router command line interface
 
 📚 Key Skills Demonstrated
  1.Inter-LAN Routing
+ 
  2.IPv4 Addressing
+ 
  3.Router CLI Configuration
+ 
  4.Network Troubleshooting
+ 
  5.Connectivity Verification
 
  📷 Screenshots
 
  Attached to the respective topics covered
  1.topology
+ 
  2.router configuration
+ 
  3.successful ping test
- 4.troubleshooting 
+ 
+ 4.troubleshooting
+ 
  5. verification.
 
 
