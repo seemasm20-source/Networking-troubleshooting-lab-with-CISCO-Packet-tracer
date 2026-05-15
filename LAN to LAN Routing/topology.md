@@ -32,7 +32,8 @@
 
 🔧 Devices Used:
 
-    | Device Model      | Quantity | Purpose                       |
+
+| DeviceModel       | Quantity | Purpose                       |
 | ----------------- | :------: | ----------------------------- |
 | Router Cisco 2911 | 1        | Routes traffic between 2 LANs |
 | Switch Cisco 2960 | 2        | Connects PCs within each LAN  |
