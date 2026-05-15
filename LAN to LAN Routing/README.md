@@ -128,7 +128,7 @@ no shutdown command in Router command line interface
  
  4.troubleshooting
  
- 5. verification.
+ 5. verification
 
 
  🎯 Learning Outcome
