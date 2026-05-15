@@ -27,9 +27,6 @@
 
 
 
-
-⚙️ Step-by-Step Build Guide
-
 🔧 Devices Used:
 
 
@@ -43,7 +40,7 @@
 
 ⚙️ Step-by-Step Build Guide
 
-   Step 1 — Add Devices to Canvas
+   Step 1 -  Add Devices to Canvas
 
 1. Open Cisco Packet Tracer
   
@@ -53,8 +50,17 @@
    
 4. Drag 6 x PC             → 3 below each switch
 
+   
 
-Step 2 — Connect Cables
+
+
+
+
+
+
+
+
+Step 2 -  Connect Cables
 
 Use: Copper Straight-Through cable for all connections
 
@@ -79,7 +85,18 @@ Switch 2  GigabitEthernet  →  Router  GigabitEthernet0/1
 🔴 Red dot = wrong cable or wrong port — delete and redo
 
 
-Step 3 — Assign IPs to All PCs
+
+
+
+
+
+
+
+
+
+
+
+Step 3 - Assign IPs to All PCs
 
 
 For each PC:
