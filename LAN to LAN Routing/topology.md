@@ -33,11 +33,12 @@
 🔧 Devices Used:
 
 
-| DeviceModel       | Quantity | Purpose                       |
-| ----------------- | :------: | ----------------------------- |
-| Router Cisco 2911 | 1        | Routes traffic between 2 LANs |
-| Switch Cisco 2960 | 2        | Connects PCs within each LAN  |
-| PC Generic        | 6        | End user devices — 3 per LAN  |
+| DeviceModel      | Quantity | Purpose                       |
+| ---------------- | :------: | ----------------------------- |
+| RouterCisco 2911 | 1        | Routes traffic between 2 LANs |
+| SwitchCisco 2960 | 2        | Connects PCs within each LAN  |
+| PCGeneric PC     | 6        | End user devices - 3 per LAN  |
+
 
 
 ⚙️ Step-by-Step Build Guide
