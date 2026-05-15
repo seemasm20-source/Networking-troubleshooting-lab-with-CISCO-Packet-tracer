@@ -6,6 +6,8 @@
 
 
 
+
+
 <img width="1920" height="1080" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/e7285ed4-07ca-492e-b8c2-48b0f8855e6a" />
 
 
@@ -21,17 +23,6 @@
 
 
 
-
-ROUTER (Cisco 2911)
-                     /                   \
-            Gi0/0                         Gi0/1
-             |                              |
-       SWITCH 1 (2960)                SWITCH 2 (2960)
-      /      |      \                /      |      \
-    PC0     PC1     PC2            PC3     PC4     PC5
-
-    ◄────── LAN 1 ──────►         ◄────── LAN 2 ──────►
-    10.0.0.0 / 24               192.168.1.0 / 24
 
 
 
