@@ -115,3 +115,31 @@ Click PC → Desktop tab → IP Configuration → Static
 
 
 
+Note- Reference of PC1 and PC4 of IP assignment,subnetmask and Defaultfateway (same steps applied to rest of the PCS)
+
+
+<img width="1920" height="1080" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/ac247a59-2a48-42af-bdbb-931a5b64c2ea" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/ff22455f-c39d-4e1c-9223-06d761f89db8" />
+
+
