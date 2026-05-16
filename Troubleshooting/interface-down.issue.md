@@ -10,6 +10,12 @@ Router interface shut down :
 
 
 
-I wanted to test Router with shutdown command and check the following:
+What is shutdown/ Administratively down means in Router CLI?
 
-1. whether the pcs communicate in same lan and also with different lan
+In Cisco router CLI, “Administratively down” means the interface has been manually disabled by an administrator using the shutdown command.
+
+1.The router interface has an IP address.
+
+2.But the port is disabled so devices cannot communicate through it
+
+
