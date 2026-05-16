@@ -49,3 +49,14 @@ Router(config-if)# exit
 
 ! --- Save configuration ---
 Router# write memory
+
+
+
+
+
+
+Note: The Default Gateway on every PC is the router's IP address on that PC's side.
+
+
+
+LAN 1 PCs use 10.0.0.4 and LAN 2 PCs use 192.168.1.4
